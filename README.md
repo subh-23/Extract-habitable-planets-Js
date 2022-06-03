@@ -1,5 +1,5 @@
 
-# Extract-habitable-planets-Js
+# Extract-habitable-planets-Nodejs
 <img src="demo.jpg"/>  
 
 Extract habitable planets from csv file with below conditions
